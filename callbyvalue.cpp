@@ -1,3 +1,5 @@
+//when formal arguments are ordinary variables, then the function is call bt value.
+
 #include<iostream>
 using namespace std;
 int sum(int, int);
