@@ -1,4 +1,4 @@
-//when formal arguments are ordinary variables, then the function is call bt value.
+//when formal arguments are ordinary variables, then the function is call by value.
 
 #include<iostream>
 using namespace std;
